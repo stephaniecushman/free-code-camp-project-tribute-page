@@ -1,4 +1,4 @@
-# free-code-camp-projects
+
 My projects from freeCodeCamp
 
 My timeline of learning on freeCodeCamp:
